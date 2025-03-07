@@ -1,5 +1,7 @@
 # Data Warehouse for Retail Sales
 
+### Author: Dominik Mikołajczyk
+
 ## Overview
 This project implements a Data Warehouse solution for an online and offline retail business. The goal is to centralize and structure retail sales data for analytics, business intelligence, and decision-making. The DWH integrates e-commerce and physical transactions to provide a comprehensive view of business operations.
 
