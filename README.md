@@ -5,9 +5,9 @@ This project implements a Data Warehouse solution for an online and offline reta
 
 ## Table of Contents
 1. [Datasets Description](#datasets-description)
-2. [Grain, Dimensions & Facts](#grain-dimensions--facts)
-3. [Logical Scheme](#logical-scheme)
+2. [Logical Scheme](#logical-scheme)
    - [Diagram](#logical-scheme-diagram)
+3. [Grain, Dimensions & Facts](#grain-dimensions--facts)
 4. [Business Layer - 3NF Model](#business-layer---3nf-model)
    - [Diagram](#3nf-model-diagram)
 5. [Business Layer - Dimensional Model](#business-layer---dimensional-model)
